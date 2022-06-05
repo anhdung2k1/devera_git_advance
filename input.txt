@@ -4,7 +4,11 @@ this is from branch main
 this is from branch-A
 this is from branch-A2
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> branch-A
+=======
+this is from branch-B
+>>>>>>> branch-B
 =======
 this is from branch-B
 >>>>>>> branch-B

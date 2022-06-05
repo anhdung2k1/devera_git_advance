@@ -1,1 +1,6 @@
 this is from branch main
+<<<<<<< HEAD
+=======
+this is from branch-A
+this is from branch-A2
+>>>>>>> branch-A
